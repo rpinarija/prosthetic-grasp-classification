@@ -1,0 +1,21 @@
+# Dataset: large, and distributed under its own academic-use terms (download link in README)
+Dataset_20181026/
+__MACOSX/
+*.zip
+*.7z
+
+# Generated files
+cache/
+results_smoke/
+*.keras
+*.h5
+
+# Python / Jupyter / OS clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+Thumbs.db
+.DS_Store
+desktop.ini
